@@ -1,17 +1,10 @@
-import { signIn } from "@/auth";
 import { Button } from "@/components/ui/button";
+import Link from "next/link";
 
 export default function SigninButton() {
   return (
-    <form
-      action={async () => {
-        "use server";
-        await signIn();
-      }}
-    >
-      <Button type="submit" variant={"outline"}>
-        Sign in
-      </Button>
-    </form>
+    <Button type="submit" variant={"outline"} asChild>
+      <Link href="/signin">Sign in</Link>
+    </Button>
   );
 }
