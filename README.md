@@ -2,7 +2,7 @@
 
 ## YouTube
 
-[!["【Auth.js】NextAuth v5の認証ボタンをshadcn/uiでリッチにカスタマイズする"](https://i.ytimg.com/vi/<id>/maxresdefault.jpg)](https://youtu.be/<id>)
+[!["【Auth.js】NextAuth v5の認証ボタンをshadcn/uiでリッチにカスタマイズする"](https://i.ytimg.com/vi/eltuhsmIc7g/maxresdefault.jpg)](https://youtu.be/eltuhsmIc7g)
 
 ## 技術選定
 
